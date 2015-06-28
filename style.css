@@ -7,3 +7,15 @@ ul {
 li {
     display: inline;
 }
+
+header {
+    float: right;
+}
+
+.business-bar {
+    float: left;
+}
+
+.setting-bar {
+    float: right; 
+}
