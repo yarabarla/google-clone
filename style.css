@@ -1,3 +1,7 @@
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
 ul {
     list-style-type: none;
     margin = 0;
@@ -9,13 +13,30 @@ li {
 }
 
 header {
+    display: block;
     float: right;
-    font-family: 'Arimo', sans-serif;
+}
+
+.main {
+    clear: left;
+    padding-top: 112px;
+}
+
+.logo-block {
+    height: 231px;
+    margin-top: 80px;
 }
 
 #logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 269px;
     height: 95px;
+}
+
+.search {
+    text-align: center;
 }
 
 .business-bar {
