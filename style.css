@@ -13,6 +13,11 @@ header {
     font-family: 'Arimo', sans-serif;
 }
 
+#logo {
+    width: 269px;
+    height: 95px;
+}
+
 .business-bar {
     float: left;
 }
